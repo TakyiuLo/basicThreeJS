@@ -5,4 +5,5 @@ This is a basic Three JS app I created
 - run `npm run build`
 - Nodemon is only going to watch any files in /scripts
 
+- My PPT is included
 # Good luck!
